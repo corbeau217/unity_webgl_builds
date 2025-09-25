@@ -1,0 +1,20 @@
+
+.unity_project_container{
+    display: block;
+}
+.unity_itch_iframe_outer{
+    display: grid;
+    
+    padding-top:2em;
+    padding-bottom:2em;
+
+    justify-content: center;
+}
+.unity_itch_iframe {
+    display: block;
+    
+    margin-left: 1em;
+    margin-right: 1em;
+    
+    box-shadow: 2px 2px 4px 2px #1a1a1a;
+}
