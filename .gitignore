@@ -1,0 +1,6 @@
+# git ignore file to stop the pesky files from being included in our commits
+
+## silly mac OS files, scrub them from existance in this repo
+.DS_Store
+*/.DS_Store
+**/.DS_Store
